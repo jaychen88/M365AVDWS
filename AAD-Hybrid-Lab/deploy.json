@@ -101,6 +101,7 @@
       "type": "string",
       "defaultValue": "Standard_D2s_v4",
       "allowedValues": [
+        "Standard_B2ms",
         "Standard_DS2_v2",
         "Standard_D2_v3",
         "Standard_D2_v4",
